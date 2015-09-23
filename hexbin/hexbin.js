@@ -1,6 +1,6 @@
 (function() {
 
-d3hexbin.hexbin = function() {
+d3hexbin = function() {
   var width = 1,
       height = 1,
       r,
